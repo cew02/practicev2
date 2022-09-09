@@ -42,7 +42,7 @@ def txt():
     pen.color('orange')
 
 # change to whatever name you want and also whatever font and all :)
-    pen.write("Love you, ", font=("Verdana", 12, "bold"))
+    pen.write("Love you, " + name, font=("Verdana", 12, "bold"))
 
 
 heart()
