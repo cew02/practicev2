@@ -1,3 +1,5 @@
+# Converting decimals to binary numbers
+
 def DecimalToBinary(num):
 
     if num >=1:
