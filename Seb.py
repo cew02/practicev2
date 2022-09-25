@@ -1,4 +1,4 @@
-# Code for that special someone in your life :)
+# Something for that special someone in your life :)
 
 name = input("What is your name?")
 print("I love you, " + name + ".")
