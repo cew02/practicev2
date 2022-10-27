@@ -8,6 +8,7 @@ def DecimalToBinary(num):
 
 if __name__ == '__main__':
 
+#Change the below value
     dec_val = 24
 
 DecimalToBinary(dec_val)
